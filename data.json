@@ -1,0 +1,50 @@
+{"users":[
+  
+  {
+    "firstName": "Manas",
+    "lastName": "Khandelwal",
+    "email": "loop@d.c",
+    "password": "12345678"
+  },
+  {
+    "firstName": "dw",
+    "lastName": "dw",
+    "email": "Sdash@df.cd",
+    "password": "Mkos9090@"
+  },
+  {
+    "firstName": "Manas",
+    "lastName": "Khandelwal",
+    "email": "manas@gmail.com",
+    "password": "Mkos9090@s"
+  },
+  {
+    "firstName": "Manas",
+    "lastName": "Khandelwal",
+    "email": "mana@mana.co",
+    "inputPassword": "Mkos9090@",
+    "confirmPassword": "Mkos9090@"
+  },
+  {
+    "firstName": "sdsad",
+    "lastName": "sadadsda",
+    "email": "asda@dsf.cd",
+    "inputPassword": "Mkos9090@",
+    "confirmPassword": "Mkos9090@"
+  },
+  {
+    "firstName": "fehkj",
+    "lastName": "dsad",
+    "email": "snjkdnkj@ff.c",
+    "inputPassword": "Loop9090@",
+    "confirmPassword": "Loop9090@"
+  },
+  {
+    "firstName": "Manas",
+    "lastName": "Khandelwal",
+    "email": "manask@gmail.com",
+    "inputPassword": "Loop9090@",
+    "confirmPassword": "Loop9090@"
+  }
+]
+}
